@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --card-bg-1: #c1b6f8;
+    --card-bg-2: #edacd2;
+    --card-bg-3: #9dc4f8;
+    --card-bg-4: #f8d8b0;
+    --card-bg-5: #86e7d4;
+    --card-bg-6: #f3f4f6;
+    --link-color: #263fa9;
+    --color: #000;
+    --body-color: #fff;
+
+    --fz-h1: 4rem;
+    --fz-h2: 2rem;
+    --fz-p: 1.6rem;
+    --fw-h1: 500;
+    --fw-h2: 600;
+}
+
+html {
+    font-family: "Outfit", serif;
+    font-size: 62.5%;
+}
